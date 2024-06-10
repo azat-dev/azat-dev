@@ -2,12 +2,24 @@
 
 # About me
 
-I've worked for 3 years as an Java Backend Developer and for 4 years as a Web-Developer and iOS - Developer. I've been working in the IT industry for 13 years already.
+I've worked for 3 years as an Java Backend Developer and for 4 years as a Front-End Developer (Web & iOS)
 I am passionate about creating efficient, high-quality, and user-friendly applications using Clean Architecture principles, Test Driven Development and Domain Driven Design.
+
+# Demo (Java/Spring Boot - Project)
+
+Explore the quality of my code through this [DEMO PROJECT](https://github.com/azat-dev/Booking).
+
+Main features of this project:
+
+- E2E tests
+- Unit tests
+- Event Driven Architecture
+- CQRS
+- Doman Driven Design
 
 # Demo (iOS - Project)
 
-If you want to check the quality of my code, you can check out this [DEMO PROJECT](https://github.com/azat-dev/CurrencyConverter).
+Explore the quality of my code through this [DEMO PROJECT](https://github.com/azat-dev/CurrencyConverter).
 
 Main features of this project:
 
